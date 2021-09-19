@@ -25,15 +25,18 @@ THEN I find a concise, descriptive title
 ```
 ## Mock Up
 
+https://github.com/Wittywhitaker14/Code-Refactor/blob/main/Develop/assets/images/01-html-css-git-homework-demo.png
 
 
 ## URLs
 
-
 * The URL of the deployed application.
 
+https://wittywhitaker14.github.io/Code-Refactor/
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+
+https://github.com/Wittywhitaker14/Code-Refactor.git
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
