@@ -1,0 +1,23 @@
+{
+  "name": "Code-Refactor",
+  "version": "1.0.0",
+  "description": "## User Story",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d develop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wittywhitaker14/Code-Refactor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wittywhitaker14/Code-Refactor/issues"
+  },
+  "homepage": "https://github.com/Wittywhitaker14/Code-Refactor",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
